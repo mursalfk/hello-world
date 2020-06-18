@@ -2,4 +2,4 @@
 LEARNED GITHUB
 ### **Learning More**
 And More
-And. Ore 
+And. more!
