@@ -1,5 +1,5 @@
 # Hi-world
-LEARNED GITHU
+LEARNED GITHUB
 ### **Learning More**
 And More
 And. more!
